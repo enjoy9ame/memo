@@ -412,8 +412,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1398431305
 
 - 首都高標識 SHUTO EXPWY Signs  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1534492809
+
 - 首都高拡張 SHUTO EXPWY Extensions  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1648670880
+
 - SHUTO EXPWY Toll booth (Left Hand Traffic)  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1245729729
 - SHUTO EXPWY 2L slow down  
@@ -441,6 +443,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1219828106
 　　Shuto Highway Noise Barrier
 　　https://steamcommunity.com/workshop/filedetails/?id=903113217
 ```
+
+- Toll Booth Elevated 24m Japan ETC  
+https://steamcommunity.com/sharedfiles/filedetails/?id=759309517
+
+- Toll Booth Elevated 12m Japan ETC  
+https://steamcommunity.com/sharedfiles/filedetails/?id=759357460
+
+- Japanese Road Decal - ETC (Electronic Toll Collection) Lane  
+https://steamcommunity.com/sharedfiles/filedetails/?id=883966205
 
 - Plain Road ( No Line ) / 線のない道路 / JPR-20G  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1687498640
@@ -498,6 +509,9 @@ http://steamcommunity.com/sharedfiles/filedetails/?id=593588108
 
 - Tree Snapping  
 https://steamcommunity.com/sharedfiles/filedetails/?id=869134690
+
+- Prop Line Tool [PLT] (vAlpha)  
+https://steamcommunity.com/sharedfiles/filedetails/?id=694512541
 
 - Curbs  
 https://steamcommunity.com/sharedfiles/filedetails/?id=883703658
