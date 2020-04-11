@@ -534,17 +534,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1388613752
 
 
 <details>
-<summary>デカール</summary>
-
-- [JPRM] 道路標示 Japan road marking  
-https://steamcommunity.com/sharedfiles/filedetails/?id=905057230
-
-- [JPRM] 道路標示２ Japan road marking2  
-https://steamcommunity.com/sharedfiles/filedetails/?id=1437278345
-</details>
-
-
-<details>
 <summary>音楽</summary>
 
 - Japanese Sound MOD  
