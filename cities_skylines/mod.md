@@ -496,6 +496,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=505480567
 - Prop & Tree Anarchy (Prop配置制限を解除)  
 http://steamcommunity.com/sharedfiles/filedetails/?id=593588108
 
+- Tree Snapping  
+https://steamcommunity.com/sharedfiles/filedetails/?id=869134690
+
+- Curbs  
+https://steamcommunity.com/sharedfiles/filedetails/?id=883703658
+
 - Tree Movement Control  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1388613752
 ```
