@@ -539,6 +539,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1683087315
 - (Random prop) JP Random japanese style shop prop  
 https://steamcommunity.com/sharedfiles/filedetails/?id=1704620233
 
+- Japanese Cushion Drums クッションドラム  
+https://steamcommunity.com/sharedfiles/filedetails/?id=880859808
+
 </details>
 
 
