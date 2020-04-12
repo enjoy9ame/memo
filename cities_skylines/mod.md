@@ -530,6 +530,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1388613752
 　　https://steamcommunity.com/sharedfiles/filedetails/?id=1392183934
 ```
 
+- ( RANDOM PROP ) JP Random shop prop pack  
+https://steamcommunity.com/sharedfiles/filedetails/?id=1693572648
+
+- ( PROP ) JP Suburb shop pack  
+https://steamcommunity.com/sharedfiles/filedetails/?id=1683087315
+
+- (Random prop) JP Random japanese style shop prop  
+https://steamcommunity.com/sharedfiles/filedetails/?id=1704620233
+
 </details>
 
 
